@@ -91,6 +91,7 @@ header {
     justify-content: center;
     gap: calc(var(--spacing-base) * 4);
     padding-inline: calc(var(--spacing-base) * 4);
+    text-align: center;
 }
 
 .profile-avatar {
