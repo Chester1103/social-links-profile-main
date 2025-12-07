@@ -140,7 +140,7 @@ nav li a{
     font-weight: var(--fw-700);
     font-size: var(--fs-sm);
     margin-top: calc(var(--spacing-base) * 4);
-    padding-block: calc(var(--spacing-base) * 2);
+    padding-block: calc(var(--spacing-base) * 4);
     text-align: center;
     text-decoration: none;
     transition: 0.3s ease;
